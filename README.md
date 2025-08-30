@@ -56,4 +56,4 @@ Condition Statements → To check navigation and boundary messages
 DOM Manipulation → Updating <img> and <p> dynamically
 
 Output:
-![ImageSlider]()
+![ImageSlider](https://github.com/jinaljain0705/Smart-Image-Slider/blob/main/Output/ImageSlider.png)
